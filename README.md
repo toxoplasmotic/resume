@@ -49,7 +49,7 @@ IT professional with 14+ years of experience in software development, quality as
 - Created, expanded on, and taught tech outreach training material
 
 ## EDUCATION
-- Wright State University | Computer Engineering coursework (2005 - 2006)
+- Wright State University: Computer Engineering coursework (2005 - 2006)
 
 ## PAST CERTIFICATIONS
 - Microsoft Certified Professional (MCP)
